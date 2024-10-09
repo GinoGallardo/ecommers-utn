@@ -1,0 +1,64 @@
+{
+  "pc_gamer": [
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      },
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-2-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      },
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-3-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      },
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-4-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      },
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-5-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      },
+      {
+        "name": "PC GAMER Y DISEÑO",
+        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
+        "price": 700000,
+        "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png",
+        "buttons": {
+          "addToCart": "Agregar al Carrito",
+          "buyNow": "Comprar"
+        }
+      }
+    ]
+  }

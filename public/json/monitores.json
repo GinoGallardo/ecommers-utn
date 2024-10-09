@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Samsung Odyssey G7",
+      "description": "El Samsung Odyssey G7 es un monitor gamer curvo de 27 pulgadas con una resolución QHD (2560x1440) y una curvatura agresiva de 1000R, que ofrece una experiencia inmersiva en juegos. Con una tasa de refresco de 240Hz y un tiempo de respuesta de 1ms.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-1-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    },
+    {
+      "name": "ASUS ROG Swift PG259QN",
+      "description": "El ASUS ROG Swift PG259QN es un monitor gamer de 24.5 pulgadas con una increíble tasa de refresco de 360Hz y un tiempo de respuesta de 1ms. Está diseñado específicamente para eSports y juegos de ritmo rápido.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-2-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    },
+    {
+      "name": "LG UltraGear 27GN950-B",
+      "description": "El LG UltraGear 27GN950-B es un monitor gamer de 27 pulgadas con una impresionante resolución 4K UHD (3840x2160) y un panel IPS que proporciona colores vivos y precisos. Con una tasa de refresco de 144Hz y un tiempo de respuesta de 1ms.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-5-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    },
+    {
+      "name": "AOC C32G2",
+      "description": "El AOC C32G2 es un monitor curvo de 31.5 pulgadas con una resolución Full HD (1920x1080), que proporciona una experiencia visual envolvente gracias a su curvatura de 1500R. Con una tasa de refresco de 165Hz y un tiempo de respuesta de 1ms.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-1-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    },
+    {
+      "name": "Dell Alienware AW3418DW",
+      "description": "El Dell Alienware AW3418DW es un monitor gamer ultrawide de 34 pulgadas con una resolución WQHD (3440x1440), ideal para jugadores que buscan una experiencia inmersiva. Su relación de aspecto de 21:9 y curvatura de 1900R permiten que el jugador se sumerja completamente en el juego. Tiene una tasa de refresco de 120Hz con NVIDIA G-Sync.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-2-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    },
+    {
+      "name": "BenQ EX2780Q",
+      "description": "El BenQ EX2780Q es un monitor de 27 pulgadas con resolución QHD (2560x1440) y un panel IPS que ofrece una excelente calidad de imagen. Con una tasa de refresco de 144Hz y un tiempo de respuesta de 5ms, este monitor es adecuado para gaming de nivel medio-alto, proporcionando una experiencia fluida en la mayoría de los juegos.",
+      "price": 700000,
+      "image": "../public/img/monitor/monitor-gamer-5-removebg-preview.png",
+      "buttons": {
+        "addToCart": "Agregar al Carrito",
+        "buyNow": "Comprar"
+      }
+    }
+  ]

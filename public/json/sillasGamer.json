@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "Corsair T3 Rush",
+      "descripcion": "Silla gamer ergonómica con soporte lumbar ajustable y reposabrazos 4D, ideal para largas sesiones de juego.",
+      "precio": 6999.00,
+      "imagen": "../public/img/sillas/silla-gamer-1-removebg-preview.png"
+    },
+    {
+      "nombre": "Razer Iskur",
+      "descripcion": "Silla gamer con soporte lumbar de doble corte, revestimiento de cuero y almohadillas de espuma de alta densidad para mayor comodidad.",
+      "precio": 10999.00,
+      "imagen": "../public/img/sillas/silla-gamer-2-removebg-preview.png"
+    },
+    {
+      "nombre": "DXRacer Formula Series",
+      "descripcion": "Silla gamer con un diseño inspirado en el automovilismo, cuenta con reposacabezas y soporte lumbar, ajustable y cómoda.",
+      "precio": 8499.00,
+      "imagen": "../public/img/sillas/silla-gamer3-removebg-preview.png"
+    },
+    {
+      "nombre": "Noblechairs Hero",
+      "descripcion": "Silla de diseño elegante y funcional, con soporte lumbar ajustable y materiales de alta calidad, ideal para gamers y trabajadores.",
+      "precio": 13999.00,
+      "imagen": "../public/img/sillas/silla-gamer4-removebg-preview.png"
+    },
+    {
+      "nombre": "AKRacing Core Series",
+      "descripcion": "Silla gamer con un diseño moderno y soporte ergonómico, equipada con cojines de memoria y alta durabilidad.",
+      "precio": 7999.00,
+      "imagen": "../public/img/sillas/silla-gamer-5-removebg-preview.png"
+    },
+    {
+      "nombre": "AKRacing Core Series",
+      "descripcion": "Silla gamer con un diseño moderno y soporte ergonómico, equipada con cojines de memoria y alta durabilidad.",
+      "precio": 7999.00,
+      "imagen": "../public/img/sillas/silla-gamer-1-removebg-preview.png"
+    }
+  ]

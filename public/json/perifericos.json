@@ -1,0 +1,125 @@
+[
+  {
+    "title": "auriculares",
+    "product": [
+      {
+        "nombre": "Logitech G Pro X",
+        "descripcion": "Sonido envolvente 7.1 con micrófono Blue Voice, ideal para gaming competitivo y largas sesiones de juego.",
+        "precio": 19999.00,
+        "imagen": "../public/img/auriculares/auriculares-1-removebg-preview.png"
+      },
+      {
+        "nombre": "SteelSeries Arctis 7",
+        "descripcion": "Auriculares inalámbricos con sonido envolvente 7.1 y una batería de larga duración, perfectos para juegos y multimedia.",
+        "precio": 22999.00,
+        "imagen": "../public/img/auriculares/auriculares-2-removebg-preview.png"
+      },
+      {
+        "nombre": "HyperX Cloud II",
+        "descripcion": "Auriculares de gran comodidad con sonido envolvente virtual 7.1, ideales para largas sesiones de juego.",
+        "precio": 18499.00,
+        "imagen": "../public/img/auriculares/auriculares-3-removebg-preview.png"
+      },
+      {
+        "nombre": "Razer BlackShark V2",
+        "descripcion": "Sonido claro y potente con micrófono desmontable, ideal para gaming competitivo y deportes electrónicos.",
+        "precio": 20999.00,
+        "imagen": "../public/img/auriculares/auriculares-4-removebg-preview.png"
+      },
+      {
+        "nombre": "Corsair HS60 Pro",
+        "descripcion": "Auriculares con sonido envolvente 7.1, cómodos y resistentes para sesiones largas de juego.",
+        "precio": 16999.00,
+        "imagen": "../public/img/auriculares/auriculares-5-removebg-preview.png"
+      },
+      {
+        "nombre": "Astro A50 Wireless",
+        "descripcion": "Auriculares inalámbricos con base de carga y sonido envolvente Dolby Atmos, ideales para consolas y PC.",
+        "precio": 30999.00,
+        "imagen": "../public/img/auriculares/auriculares-1-removebg-preview.png"
+      }
+    ]
+  },
+  {
+    "title": "mouse",
+    "product": [
+      {
+        "nombre": "Razer DeathAdder V2",
+        "descripcion": "Un mouse ergonómico con sensor óptico de alta precisión, perfecto para juegos de disparos en primera persona.",
+        "precio": 9999.00,
+        "imagen": "../public/img/mouse/mouse-1-removebg-preview.png"
+      },
+      {
+        "nombre": "Logitech G502 Hero",
+        "descripcion": "Un mouse con sensor de alta precisión y botones programables, ideal para jugadores que necesitan precisión y versatilidad.",
+        "precio": 10999.00,
+        "imagen": "../public/img/mouse/mouse-2-removebg-preview.png"
+      },
+      {
+        "nombre": "SteelSeries Rival 600",
+        "descripcion": "Mouse con sistema de doble sensor para una precisión milimétrica y personalización de peso.",
+        "precio": 11999.00,
+        "imagen": "../public/img/mouse/mouse-3-removebg-preview.png"
+      },
+      {
+        "nombre": "Corsair Dark Core RGB Pro",
+        "descripcion": "Mouse inalámbrico con personalización RGB y alta precisión, ideal para juegos y productividad.",
+        "precio": 12499.00,
+        "imagen": "../public/img/mouse/mouse-4-removebg-preview.png"
+      },
+      {
+        "nombre": "Glorious Model O",
+        "descripcion": "Mouse ultraligero con sensor óptico avanzado y diseño perforado para un movimiento rápido y preciso.",
+        "precio": 9499.00,
+        "imagen": "../public/img/mouse/mouse-5-removebg-preview.png"
+      },
+      {
+        "nombre": "Zowie EC2",
+        "descripcion": "Mouse ergonómico de precisión, diseñado para eSports con un sensor óptico avanzado y diseño simple.",
+        "precio": 8999.00,
+        "imagen": "../public/img/mouse/mouse-1-removebg-preview.png"
+      }
+    ]
+  },
+  {
+    "title": "teclado",
+    "product": [
+      {
+        "nombre": "Razer Huntsman Elite",
+        "descripcion": "Teclado mecánico con switches ópticos para una mayor velocidad de actuación y personalización RGB.",
+        "precio": 17999.00,
+        "imagen": "../public/img/teclados/teclado-1-removebg-preview.png"
+      },
+      {
+        "nombre": "Corsair K95 RGB Platinum",
+        "descripcion": "Teclado mecánico con iluminación RGB y teclas programables, ideal para juegos y tareas múltiples.",
+        "precio": 18499.00,
+        "imagen": "../public/img/teclados/teclado-2-removebg-preview.png"
+      },
+      {
+        "nombre": "SteelSeries Apex Pro",
+        "descripcion": "Teclado mecánico con switches ajustables para personalizar la respuesta de cada tecla según tus necesidades.",
+        "precio": 16999.00,
+        "imagen": "../public/img/teclados/teclado-3-removebg-preview.png"
+      },
+      {
+        "nombre": "Logitech G915 TKL",
+        "descripcion": "Teclado mecánico inalámbrico con diseño compacto y switches de bajo perfil, ideal para gamers que buscan portabilidad.",
+        "precio": 15999.00,
+        "imagen": "../public/img/teclados/teclado-4-removebg-preview.png"
+      },
+      {
+        "nombre": "HyperX Alloy FPS Pro",
+        "descripcion": "Teclado compacto y duradero con switches mecánicos rojos, perfecto para juegos FPS y uso intensivo.",
+        "precio": 14999.00,
+        "imagen": "../public/img/teclados/teclado-1-removebg-preview.png"
+      },
+      {
+        "nombre": "Ducky One 2 Mini",
+        "descripcion": "Teclado mecánico compacto con un diseño minimalista y switches Cherry MX, ideal para gamers que buscan simplicidad.",
+        "precio": 13499.00,
+        "imagen": "../public/img/teclados/teclado-2-removebg-preview.png"
+      }
+    ]
+  }
+]
