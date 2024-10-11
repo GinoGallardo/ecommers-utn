@@ -22,13 +22,9 @@ function createCard(name, description, price, image) {
       <button id="comprar" class="px-1">Comprar</button>
       </div>
     </div>
-    `;
-    const addCart = document.createElement('button');
-    addCart.id.add('addcart')
-    addCart.innerHTML.add('Agragar al Carrito');
+  `;
   
   cardContainer.appendChild(div);
-  div.appendChild(addCart);
 }
 
 // Función para cargar los monitores desde el archivo JSON
