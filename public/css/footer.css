@@ -7,7 +7,7 @@ footer{
   font-family: Georgia, 'Times New Roman', Times, serif;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: space-around;
+  justify-content: space-between;
   gap: 1;
   background: linear-gradient(to bottom, #0823a0f6, #850578);
 }

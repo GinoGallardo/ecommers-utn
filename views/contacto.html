@@ -10,7 +10,7 @@
   <title>Contacto</title>
 </head>
 <body>
-  <header class="container-fluid mb-5">
+  <header class="container-fluid position-sticky">
     <div class="container-fluid d-flex flex-row align-items-center justify-content-between">
       <img
         class="header_img"
@@ -33,26 +33,40 @@
       </div>
     </nav>
   </header>
-  <main class="container d-lg-flex h-100 mt-5 vh-100" ">
-    <section>
-
-      <form>
+  <main class="container d-flex align-items-center justify-content-center h-100 mt-5 h-75 mb-5 position-relative">
+      <form class="border border-primary px-5 py-4">
         <div class="">
-          <label for="exampleInputEmail1" class="form-label">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-          <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+          <label for="nombre" class="form-label">Nombre</label>
+          <input type="text" class="form-control" id="nombre" aria-describedby="emailHelp">
+        </div>
+        <div class="">
+          <label for="apellido" class="form-label">Apellidos</label>
+          <input type="text" class="form-control" id="apellido" aria-describedby="emailHelp">
+        </div>
+        <div class="">
+          <label for="email" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
         </div>
         <div class="mb-3">
-          <label for="exampleInputPassword1" class="form-label">Password</label>
-          <input type="password" class="form-control" id="exampleInputPassword1">
+          <label for="celular" class="form-label">Celular</label>
+          <input type="password" class="form-control" id="celular">
         </div>
         <div class="mb-3 form-check">
-          <input type="checkbox" class="form-check-input" id="exampleCheck1">
-          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+          <input type="checkbox" class="form-check-input" id="femenino">
+          <label class="form-check-label" for="femenino">Femenino</label>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <div class="mb-3 form-check">
+          <input type="checkbox" class="form-check-input" id="masculino">
+          <label class="form-check-label" for="masculino">Masculino</label>
+        </div>
+        <div class="mb-3 form-check">
+          <label class="form-check-label" for="masculino">Contanos en qué te podemos ayudar:</label>
+          <input type="text" class="form-control" id="masculino">
+        </div>
+        <div class="d-flex align-items-center justify-content-center">
+          <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
       </form>
-    </section>
   </main>
   <!-- FOOTER -->
   <footer class="d-flex flex-row align-items-center justify-content-around pb-5">

@@ -6,7 +6,6 @@
 
 /* BANNER */
 .banner{
-  margin: 7em 0 0 0;
   background: linear-gradient(to top, #0823a0f6, #850578);
   border-top: .2em #850578 solid;
 }

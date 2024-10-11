@@ -1,0 +1,43 @@
+
+.contenedor-apiTiempo {
+  margin: 1em ;
+  padding: 1em;
+  text-align: center;
+}
+
+.container-apiTiempo {
+  width: 50em;
+  height: 5em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.input-apiTiempo{
+  color: #ffffff;
+  background: none;
+}
+
+.input-apiTiempo[type="text"] {
+  padding: .5em;
+  font-size: 1em;
+  width: 10m;
+}
+
+.button-apiTiempo {
+  padding: .5em ;
+  font-size: 1em;
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.image_clima{
+  border: none;
+  background: none;
+}
+
+#datosClima {
+  margin-top: 20px;
+  font-size: 1em;
+}

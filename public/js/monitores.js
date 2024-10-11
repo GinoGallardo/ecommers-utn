@@ -18,13 +18,17 @@ function createCard(name, description, price, image) {
       <p>${description}</p>
       <span>Precio: $${price}</span><br>
       <div class="button">
-      <button class="btn btn-primary">Agregar al carrito</button>
-      <button class="btn btn-primary">Comprar</button>
+      <button id="addCarrito" class="px-1">Agregar al carrito</button>
+      <button id="comprar" class="px-1">Comprar</button>
       </div>
     </div>
-  `;
+    `;
+    const addCart = document.createElement('button');
+    addCart.id.add('addcart')
+    addCart.innerHTML.add('Agragar al Carrito');
   
   cardContainer.appendChild(div);
+  div.appendChild(addCart);
 }
 
 // Función para cargar los monitores desde el archivo JSON

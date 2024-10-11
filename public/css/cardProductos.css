@@ -30,8 +30,6 @@
   letter-spacing: .3em;
   text-transform: uppercase;
   width: 100%;
-  margin: 0 3em;
-  padding: .5em 1em ;
   background: linear-gradient(to left, #850578, #070707, #850578);
 }
 .card{
@@ -41,16 +39,21 @@
   display: flex;
   color: #070707;
   font-weight: 900;
-  background-color: none;
-  border: none;
   box-shadow: 0 0 .9em rgba(200, 5, 200, .9);
   flex-direction: row;
   justify-content: center;
   align-items: center;
+
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);  
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.3); 
+
   transition: transform 1s ease;
 }
 .card:hover{
-  transform: scale(1.1);
+
   background-color: #850578;
   z-index: 0;
 }
@@ -82,7 +85,6 @@ button{
   letter-spacing: .2em;
   font-family: fantasy;
   margin-top: 1em;
-  padding: .1em 1.2em;
   border: .1em #FFFFFF solid;
   background-color: #fc458c;
   color: #FFFFFF;

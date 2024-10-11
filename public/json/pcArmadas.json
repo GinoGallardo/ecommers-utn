@@ -1,64 +1,38 @@
-{
-  "pc_gamer": [
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      },
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-2-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      },
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-3-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      },
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-4-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      },
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-5-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      },
-      {
-        "name": "PC GAMER Y DISEÑO",
-        "description": "Un procesador Intel Core i5 generalmente tiene entre 4 y 6 núcleos (dependiendo de la generación), lo que lo hace adecuado para tareas multitarea, como jugar videojuegos, edición de video y diseño gráfico. La memoria RAM de 16 GB es suficiente para ejecutar múltiples aplicaciones al mismo tiempo, como software de diseño (Adobe Photoshop, Illustrator, Premiere) y videojuegos modernos.",
-        "price": 700000,
-        "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png",
-        "buttons": {
-          "addToCart": "Agregar al Carrito",
-          "buyNow": "Comprar"
-        }
-      }
-    ]
+[
+  {
+    "name": "PC GAMER INTEL i5",
+    "description": "PC con procesador Intel i5 de 10ª generación, ideal para gaming y diseño gráfico.",
+    "price": 700000,
+    "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png"
+  },
+  {
+    "name": "PC GAMER AMD Ryzen 5",
+    "description": "PC equipada con AMD Ryzen 5, diseñada para juegos exigentes y multitarea eficiente.",
+    "price": 750000,
+    "image": "../public/img/pc-gamer/pc-gamer-2-removebg-preview.png"
+  },
+  {
+    "name": "PC DISEÑO Y GAMING",
+    "description": "Excelente rendimiento para tareas de diseño y videojuegos gracias a sus 16GB de RAM y SSD de 1TB.",
+    "price": 720000,
+    "image": "../public/img/pc-gamer/pc-gamer-3-removebg-preview.png"
+  },
+  {
+    "name": "PC GAMER PROFESIONAL",
+    "description": "PC profesional con Intel i7 y 32GB de RAM, perfecta para gaming de alto nivel y trabajos de edición.",
+    "price": 900000,
+    "image": "../public/img/pc-gamer/pc-gamer-4-removebg-preview.png"
+  },
+  {
+    "name": "PC RENDIMIENTO EXTREMO",
+    "description": "Con un potente procesador AMD Ryzen 7 y una gráfica de última generación para gaming extremo.",
+    "price": 950000,
+    "image": "../public/img/pc-gamer/pc-gamer-5-removebg-preview.png"
+  },
+  {
+    "name": "PC GAMER CON DISEÑO ÚNICO",
+    "description": "Perfecta combinación de potencia y diseño, con Intel i5, 16GB RAM y 512GB SSD.",
+    "price": 680000,
+    "image": "../public/img/pc-gamer/pc-gamer-1-removebg-preview.png"
   }
+]

@@ -18,8 +18,8 @@ function createCard(nombre, descripcion, precio, imagen, title) {
       <p class="card-text">${descripcion}</p>
       <span>Precio: $${precio}</span><br>
       <div class="button">
-      <button class="btn btn-primary">Agregar al carrito</button>
-      <button class="btn btn-primary">Comprar</button>
+      <button class="px-1">Agregar al carrito</button>
+      <button class="px-1">Comprar</button>
       </div>
     </div>
   `;
