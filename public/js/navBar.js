@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
   let items = [
     { name: 'Home', href: '../index.html' },
-    { name: 'PC Armadas', href: './pcArmadas.html' },
-    { name: 'Monitores', href: './monitores.html' },
-    { name: 'Periféricos', href: './perifericos.html' },
-    { name: 'Sillas Gamer', href: './sillasGamer.html' },
-    { name: 'Contacto', href: './contacto.html' }
+    { name: 'PC Armadas', href: '../../views/pcArmadas.html' },
+    { name: 'Monitores', href: '../../views/monitores.html' },
+    { name: 'Periféricos', href: '../../views/perifericos.html' },
+    { name: 'Sillas Gamer', href: '../../views/sillasGamer.html' },
+    { name: 'Contacto', href: '../../views/contacto.html' }
   ];
 
   function headers(items) { 
